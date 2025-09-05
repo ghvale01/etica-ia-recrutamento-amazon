@@ -25,7 +25,7 @@ Esse caso ficou famoso como exemplo de **viés algorítmico** e **falta de gover
 ---
 
 ## 📂 Arquivos
-- 📑 [Relatório Completo em PDF]
+- 📑 [Relatório Completo em PDF](https://github.com/ghvale01/etica-ia-recrutamento-amazon/blob/main/Relatorio%20de%20Dilema%20Etico%20em%20IA.pdf)
 - 📝 Este README de apoio
 
 ---
