@@ -42,4 +42,4 @@ A análise recomenda:
 ## 👤 Autor
 - **Gustavo Vale**
 - **Analise e Desenvolvimento de Sistemas | Cruzeiro do Sul Virtual**
-- LinkedIn (https://linkedin.com/in/ghvale01)
+- **[LinkedIn](https://linkedin.com/in/ghvale01)**
